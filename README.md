@@ -1,4 +1,4 @@
-vim-help-cn
+vimcdoc
 ===========
 
-vim中文帮助
+vim中文帮助 v7.3
